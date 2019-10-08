@@ -1,0 +1,4 @@
+[submodule "internal/submodule_A"]
+	path = internal/submodule_A
+	url = https://github.com/Sobhym/submodule_A.git
+	branch = master
